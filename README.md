@@ -8,6 +8,10 @@ Some toy problems
 
 ## Others
 
+## 帖子
+
+1. [AI for science常用模型入门教学 - 知乎](https://zhuanlan.zhihu.com/p/648410931?utm_id=0)
+
 ## TODO
 
 - 添加论文
